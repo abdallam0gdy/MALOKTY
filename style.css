@@ -1,0 +1,23 @@
+.countdown{
+    color: #0d6efd;
+    padding: 10px;
+    border: 3px solid black;
+    border-width: 100%;
+    border-radius: 10px;
+    border-start-start-radius: 0px;
+    border-end-end-radius: 0px;
+
+}
+#win{
+    border: 3px solid black;
+    border-radius: 100px;
+    border-start-start-radius: 0px;
+    border-end-end-radius: 0px;
+    margin: 10px;
+    height: auto;
+    width: 95%;
+}
+body{
+    background-image: url("1.jpg");
+    color: white;
+}
